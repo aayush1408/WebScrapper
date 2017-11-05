@@ -1,0 +1,20 @@
+{
+  "name": "webscrapper",
+  "version": "1.0.0",
+  "description": "A webscaper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/aayush1408/WebScrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
